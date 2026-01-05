@@ -36,7 +36,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <Phone className="w-5 h-5 text-yellow-500 flex-shrink-0" />
-                <span>+853 (請聯絡我們)</span>
+                <span>+853 6253 8208</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <span className="w-5 h-5 flex items-center justify-center text-yellow-500 font-bold">W</span>
