@@ -332,7 +332,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="text-white font-bold text-lg mb-1">電話聯絡</h4>
-                      <p className="text-gray-400">+853 (請加微信聯繫)</p>
+                      <p className="text-gray-400">+853 6253 8208</p>
                     </div>
                   </div>
 
@@ -371,9 +371,6 @@ export default function Home() {
       </section>
 
       <Footer />
-      <div className="fixed bottom-2 right-2 text-[10px] text-gray-500 opacity-50 pointer-events-none z-50">
-        v3.2 Deployed: {new Date().toLocaleString('zh-HK', { timeZone: 'Asia/Hong_Kong' })}
-      </div>
     </main>
   );
 }

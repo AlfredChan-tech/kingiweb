@@ -53,7 +53,7 @@ export default function TeamShowcase() {
     "銀河地段3 (LOT3, 3C004 & 3C005) 地基及上部結構工程",
     "澳門主教山別墅工程",
     "澳門石排灣擎天匯工程項目",
-    "銀河娛樂集團3A, 3D工程項目",
+    "澳門銀河娛樂集團多間酒店及賭場建造及裝修工程",
     "澳門仁伯爵綜合醫院擴建工程項目",
     "慕拉士公共房屋建造工程",
     "新城A區B5地段經濟房屋建造工程 - 顧問工作",
@@ -156,7 +156,7 @@ export default function TeamShowcase() {
             <div className="lg:col-span-8 p-8 md:p-12 bg-white">
               <div className="flex items-center gap-3 mb-8">
                 <HardHat className="w-8 h-8 text-yellow-500" />
-                <h3 className="text-2xl font-bold text-gray-900">團隊重點參與項目經驗</h3>
+                <h3 className="text-2xl font-bold text-gray-900">團隊核心成員曾參與項目經驗</h3>
               </div>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
