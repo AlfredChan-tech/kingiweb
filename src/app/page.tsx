@@ -27,7 +27,7 @@ export default function Home() {
             src="/images/hero-bg.png"
             alt="Luxury Interior Design"
             fill
-            className="object-cover opacity-60"
+            className="object-cover opacity-60 scale-110 object-[center_30%]"
             priority
           />
           {/* Enhanced Gradient Overlay for Text Readability */}
